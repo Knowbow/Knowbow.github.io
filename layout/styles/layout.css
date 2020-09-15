@@ -484,6 +484,7 @@ table a, #comments a{background-color:inherit;}
 
 	ul.languages {
 		margin: 0;
+		list-style: none;
 	}
 
 	.profile-pic {
